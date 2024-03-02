@@ -1,6 +1,13 @@
+# Spring-OAuth demo
 
-## 极客时间
-[使用Spring Security搭建一套基于JWT的OAuth 2.0架构](https://time.geekbang.org/column/article/264179?utm_campaign=geektime_search&utm_content=geektime_search&utm_medium=geektime_search&utm_source=geektime_search&utm_term=geektime_search)
+[极客时间-使用Spring Security搭建一套基于JWT的OAuth 2.0架构](https://time.geekbang.org/column/article/264179?utm_campaign=geektime_search&utm_content=geektime_search&utm_medium=geektime_search&utm_source=geektime_search&utm_term=geektime_search)
+
+
+
+
+之前还写过一个简化版本的，可以参考[spring-security-oauth2-demo](https://github.com/zavier/spring-security-oauth2-demo)
+
+
 
 
 OAuth2.0是一种授权协议，相当于你将自己在某个服务的指定数据等权限，授权给了第三方另一个服务
